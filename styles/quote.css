@@ -1,0 +1,60 @@
+.quote_bg {
+    width: 100%;
+    height: 900px;
+    margin-top: 1600px;
+    background-color: orange;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.quote_box {
+    background-color: white;
+    height: 50%;
+    width: 80%;
+}
+
+.quote_text {
+    color: #9a9a9a;
+    padding: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    gap: 50px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.quote_writer {
+    margin-top: 50px;
+    color: white;
+}
+
+.quote_point {
+    margin-top: 20px;
+    height: 20px;
+    width: 20px;
+    background-color: grey;
+    border-radius: 50%;
+}
+
+.quote_row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.quote_row :last-child {
+    background-color: white;
+
+}
+
+@media screen and (min-width: 780px) {
+    .quote_bg{
+        margin-top: 1000px
+    }
+    
+}

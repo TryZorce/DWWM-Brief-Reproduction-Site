@@ -1,0 +1,45 @@
+.about {
+    display: flex;
+    align-items: center;
+    color: azure;
+    flex-direction: column;
+    padding-top: 100px;
+    gap: 25px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(../assets/images/about-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+
+}
+
+.icons {
+    display: flex;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 50%;
+    border-style: solid;
+}
+
+
+.lign {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid white;
+    width: 80%;
+}
+
+@media only screen and (min-width: 780px) {
+    
+    .about_responsive {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+    }
+    .about_responsive input {
+        text-align: center;
+      }
+  }
+

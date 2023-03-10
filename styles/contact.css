@@ -1,0 +1,30 @@
+.contact_bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #596065;
+    height: 200px;
+    text-align: center;
+    color: white;
+}
+
+.contact {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.contact_text {
+    margin-top: 20px;
+}
+
+.contact_button {
+    margin-top: 20px;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #ffffff;
+    background-color: #00eeff;
+    border-radius: 20px;
+}

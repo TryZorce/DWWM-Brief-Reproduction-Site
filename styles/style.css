@@ -1,0 +1,14 @@
+@import url(./header.css);
+@import url(./banner.css);
+@import url(./about.css);
+@import url(./gallery.css);
+@import url(./quote.css);
+@import url(./blog_black.css);
+@import url(./blog.css);
+@import url(./contact.css);
+@import url(./footer.css);
+
+* {
+    padding: 0;
+    margin: 0;
+}

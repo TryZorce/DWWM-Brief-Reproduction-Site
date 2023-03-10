@@ -1,0 +1,47 @@
+.gallery {
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-color: #33c1cf;
+    font-size: 20px;
+}
+
+.gallery_text {
+    display: flex;
+    align-items: center;
+    color: azure;
+    flex-direction: column;
+    gap: 25px;
+    width: 100%;
+    height: 500px;
+    padding-top: 100px;
+    gap: 25px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.gallery_list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.gallery_list :first-child {
+    color: orange;
+}
+
+.gallery_space {
+    padding-top: 180px;
+}
+ 
+@media screen and (min-width: 900px)
+{
+.row {
+display: flex ;
+flex-direction: column;
+
+}
+}
+
+    

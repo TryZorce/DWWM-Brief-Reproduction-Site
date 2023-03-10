@@ -1,0 +1,45 @@
+.banner_button_form {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #000000;
+    background-color: #FFFF;
+    border-radius: 10px;
+}
+
+.banner_button_form:hover {
+    cursor: pointer;
+}
+
+.banner_orange {
+    color: #f89624;
+}
+
+.banner_blue {
+    color: #33c1cf;
+}
+
+.contenue {
+    display: flex;
+    align-items: center;
+    color: azure;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+    padding-top: 100px;
+    gap: 25px;
+    margin: 0 auto;
+    background-image: url(../assets/images/banner_bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+
+}
+
+.banner_button {
+    width: max-content;
+    margin: 0px;
+}
