@@ -12,17 +12,20 @@ header {
     margin-left: 20px;
 }
 
-.burger{
+.burger {
     display: flex;
     font-size: 50px;
 }
-a{
-    text-decoration:none;
+
+a {
+    text-decoration: none;
     color: white;
 }
-a:hover{
+
+a:hover {
     cursor: pointer;
 }
+
 ul {
     display: none;
 }
@@ -40,5 +43,5 @@ ul {
     .burger {
         display: none;
     }
-    
+
 }

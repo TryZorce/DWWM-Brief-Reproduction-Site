@@ -1,7 +1,7 @@
 .blog_black_bg {
     display: flex;
     text-align: center;
-    height:200%px;
+    height: 200%px;
     background-image: url(../assets/images/blog-bg.jpg);
     background-size: cover;
     background-position: center;
@@ -40,16 +40,16 @@
 
 }
 
-.blog_black_text2{
+.blog_black_text2 {
     padding-top: 40px;
 
 }
 
-.blog_black_button:hover{
+.blog_black_button:hover {
     cursor: pointer;
 }
 
-.blog_black_button{
+.blog_black_button {
     margin: 10px;
     padding: 10px;
     width: 40%;
@@ -58,6 +58,6 @@
 }
 
 
-.blog_black_button_space{
+.blog_black_button_space {
     margin-top: 60px;
 }

@@ -29,19 +29,19 @@
     justify-content: center;
 }
 
-.yellow_text{
+.yellow_text {
     color: yellow;
 }
 
-.map{
+.map {
+    height: 500px;
     width: 100%;
-    height: auto;
 }
 
 @media only screen and (min-width: 768px) {
     .row {
         justify-content: space-between;
-        align-items: center; 
+        align-items: center;
     }
 
     .separed {

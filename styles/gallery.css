@@ -34,14 +34,11 @@
 .gallery_space {
     padding-top: 180px;
 }
- 
-@media screen and (min-width: 900px)
-{
-.row {
-display: flex ;
-flex-direction: column;
 
-}
-}
+@media screen and (min-width: 900px) {
+    .row {
+        display: flex;
+        flex-direction: column;
 
-    
+    }
+}
