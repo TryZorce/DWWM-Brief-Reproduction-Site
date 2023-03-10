@@ -1,10 +1,10 @@
 # FORMATION DWWM BRIEF 3
 
 ## Contexte du projet :
----
->Suite du brief #2 Réaliser la maquette d'un site simple avec Figma.
 
-Bravo le client est ravi d’avoir une maquette de son projet qui corresponds à sa vision du produit ! À présent il est temps de lui donner vie avec HTML CSS. Le client vous rappel qu’il est très important que le site soit adaptable à tous type d’écran.
+>Suite du brief #2 Réaliser la [Maquette](https://www.figma.com/file/EDI5maVINURxypeAXB2Hpu/Untitled?node-id=0%3A1&t=r0nA0WZnP8TvuDkS-1) d'un site simple avec Figma.
+
+Bravo le client est ravi d’avoir une [Maquette](https://www.figma.com/file/EDI5maVINURxypeAXB2Hpu/Untitled?node-id=0%3A1&t=r0nA0WZnP8TvuDkS-1) de son projet qui corresponds à sa vision du produit ! À présent il est temps de lui donner vie avec HTML CSS. Le client vous rappel qu’il est très important que le site soit adaptable à tous type d’écran.
 
 
 
@@ -27,6 +27,6 @@ Critères de performance :
 - Respect des bonnes pratiques d’indentation
 - Respect des bonnes pratiques de sémantique (header, main, etc)
 
-[Maquette](https://www.figma.com/file/EDI5maVINURxypeAXB2Hpu/Untitled?node-id=0%3A1&t=r0nA0WZnP8TvuDkS-1)
+
 
 
