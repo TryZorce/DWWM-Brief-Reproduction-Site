@@ -16,10 +16,17 @@ header {
     display: flex;
     font-size: 50px;
 }
+a{
+    text-decoration:none;
+    color: white;
+}
+a:hover{
+    cursor: pointer;
+}
 ul {
     display: none;
 }
- 
+
 
 @media screen and (min-width: 780px) {
     ul {
