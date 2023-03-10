@@ -23,8 +23,25 @@
     gap: 20px;
     width: 100%;
     text-align: left;
+    padding: 30px;
   }
-  
-  .blog_texte_white {
-    text-align: center;
+
+  .blog_text{
+    color: black;
+    font-style: oblique;
+    font-size: large;
+    padding-left: 20px;
+    padding-bottom: 10px;
+  }
+
+  .blog_text2{
+    color: blue;
+    padding-left: 20px;
+    padding-bottom: 10px;
+  }
+
+  .blog_text3{
+    color: grey;
+    padding-left: 20px;
+    padding-bottom: 10px;
   }
