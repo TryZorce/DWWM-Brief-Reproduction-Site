@@ -2,9 +2,9 @@
 
 ## Contexte du projet :
 
->Suite du brief #2 Réaliser la [Maquette](https://www.figma.com/file/EDI5maVINURxypeAXB2Hpu/Untitled?node-id=0%3A1&t=r0nA0WZnP8TvuDkS-1) d'un site simple avec Figma.
+>Suite du brief #2 Réaliser la [Maquette](https://drive.google.com/file/d/1k-LbSG9EHB2yRfG4stD2DTVlXfBe5wGI/view) d'un site simple avec Figma.
 
-Bravo le client est ravi d’avoir une [Maquette](https://www.figma.com/file/EDI5maVINURxypeAXB2Hpu/Untitled?node-id=0%3A1&t=r0nA0WZnP8TvuDkS-1) de son projet qui corresponds à sa vision du produit ! À présent il est temps de lui donner vie avec HTML CSS. Le client vous rappel qu’il est très important que le site soit adaptable à tous type d’écran.
+Bravo le client est ravi d’avoir une [Maquette](https://drive.google.com/file/d/1k-LbSG9EHB2yRfG4stD2DTVlXfBe5wGI/view) de son projet qui corresponds à sa vision du produit ! À présent il est temps de lui donner vie avec HTML CSS. Le client vous rappel qu’il est très important que le site soit adaptable à tous type d’écran.
 
 
 
